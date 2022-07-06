@@ -7,7 +7,7 @@
 
 - 🌟 Main languages: **JavaScript,Java**
 
-- 📫 How to reach me **muhammadrameezahmed73@gmail.com**
+- 📫 How to reach me **rameezahm16@gmail.com**
 
 - ⚡ Fun fact **Sports**
 
