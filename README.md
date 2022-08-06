@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently learning: **React.js**
 
-- 🌟 Main languages: **JavaScript,Java,python**
+- 🌟 Main languages: **JavaScript,Java**
 
 - 📫 How to reach me **muhammadrameezahmed73@gmail.com**
 
