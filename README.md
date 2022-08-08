@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **muhammadrameezahmed73@gmail.com**
 
-- ⚡ Fun fact **Sports**
+- ⚡ Fun fact **Sports,Tour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
