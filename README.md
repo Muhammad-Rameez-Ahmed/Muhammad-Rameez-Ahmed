@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in: **Full Stack Web Development**
 
-- 👨‍💻 I’m currently learning: ** Frontend:React.js,Backend:Firebase**
+- 👨‍💻 I’m currently learning: ** Frontend:React,Backend:Firebase**
 
 - 🌟 Main languages: **JavaScript,Java**
 
