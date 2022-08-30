@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-rameez-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-rameez-ahmed" /> </p>
 
-- 👀 I’m interested in: Full Stack Web Development **MERN Development**
+- 👀 I’m interested in: **MERN Development**
 
 - 👨‍💻 I’m currently learning **React.js and Node.js**
 
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-rameez-ahmed&show_icons=true&locale=en" alt="muhammad-rameez-ahmed" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-rameez-ahmed&" alt="muhammad-rameez-ahmed" /></p>
-
