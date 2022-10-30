@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **muhammadrameezahmed73@gmail.com**
 
-- ⚡ Fun fact **Sports,Tour,Adventuer,Reading**
+- ⚡ Fun fact **Sports,DSA,Tour,Adventuer,Reading**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
