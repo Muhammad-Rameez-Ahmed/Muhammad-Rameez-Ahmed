@@ -1,4 +1,4 @@
-<h1 align="center">Hello world!👋, I'm Muhammad Rameez Ahmed</h1>
+<h1 align="center">Hello! world!👋, I'm Muhammad Rameez Ahmed</h1>
 <h3 align="center">📚 I'm currently studying for a bachelor's degree in Software Engineering from Sir Syed University of Engineering and Technologye frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammad-rameez-ahmed&label=Profile%20views&color=0e75b6&style=flat" alt="muhammad-rameez-ahmed" /> </p>
