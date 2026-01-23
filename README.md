@@ -55,44 +55,6 @@ MongoDB • SQL • NoSQL • AWS Databases
 
 ---
 
-## 🌟 Featured Projects
-
-### 🏥 HMIS Micro-Frontend Ecosystem
-**Tech:** Angular 20, Module Federation, GitHub Actions, Firebase
-- Architected hospital management system with independent module deployment
-- Implemented Host application orchestrating Remote modules (Pharmacy, Billing)
-- Established monorepo with private npm registry and CI/CD automation
-
-### 🤖 AI Component Library Assistant (RAG Agent)
-**Tech:** Python, RAG, Generative AI, Vector Embeddings
-- Built conversational AI chatbot trained on component library codebase
-- Reduced developer onboarding time by 60% through intelligent assistance
-- Achieved 85% context-aware response accuracy
-
-### 📚 Healthcare UI Component Library
-**Tech:** Angular 20, Tailwind CSS, Storybook, npm
-- Developed 50+ reusable components with comprehensive design system
-- Created interactive Storybook documentation for component exploration
-- Reduced code duplication by 40% across HMIS ecosystem
-
-### 💊 Pharmacy Module (Micro-Frontend)
-**Tech:** Angular 20, Module Federation, Secure Cookies
-- Independently deployable pharmacy module with HIPAA-ready compliance
-- Optimized performance achieving 45% faster initial load times
-- Implemented role-based access control for healthcare security
-
-### 🏥 GP-Live (NHS Healthcare System)
-**Tech:** Angular 14, TypeScript, RxJS, Guards
-- Enterprise healthcare platform with customized workflows for medical staff
-- Reduced initial bundle size by 45% through lazy loading
-- Utilized standalone components for modular, testable architecture
-
-### 🏠 SPHF (Flood Relief Housing Platform)
-**Tech:** Angular 14, TypeScript, RxJS, Guards
-- Platform serving 2.1M families affected by 2022 Pakistan floods
-- Optimized for low-bandwidth regions through lazy loading strategies
-- Built efficient tracking modules for reconstruction progress
-
 ---
 
 ## 📚 Research & Publications
