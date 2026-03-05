@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer specializing in modern frontend development and AI integration. Currently working at **The Indus Hospital**, where I architect micro-frontend systems for healthcare applications. I combine technical expertise with research innovation, having published papers on computer vision and holographic systems.
+I'm a passionate Software Engineer specializing in modern frontend development and AI integration.I architect micro-frontend systems for healthcare applications. I combine technical expertise with research innovation, having published papers on computer vision and holographic systems.
 
 - 🏥 Currently building **HMIS Micro-Frontend Ecosystem** using Angular 20 & Module Federation
 - 🤖 Developing **RAG-powered AI Agents** for intelligent code assistance
