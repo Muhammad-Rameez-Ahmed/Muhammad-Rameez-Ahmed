@@ -25,35 +25,50 @@ I'm a passionate Software Engineer specializing in modern frontend development a
 
 ---
 
----
-
 ## 🛠️ Technical Skills
 
-**Frontend Development**
-```
-Angular (14-20) • React • Next.js • TypeScript • JavaScript
-RxJS • Tailwind CSS • Shadcn • Angular Material • Storybook
-```
+### Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular_Material-757575?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
+</p>
 
-**AI/ML Technologies**
-```
-Generative AI • RAG Agents • Pre-trained Models • Roboflow
-AI Integration • Vector Embeddings
-```
+### AI/ML Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Agents-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector_Embeddings-009688?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</p>
 
-**Architecture & Cloud**
-```
-Micro-Frontend • Module Federation • Monorepo
-AWS (EC2, S3, Databases) • Firebase • Docker • CI/CD
-```
+### Architecture & Cloud
+<p align="left">
+  <img src="https://img.shields.io/badge/Micro_Frontend-FF6C37?style=for-the-badge&logo=webpack&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Monorepo-000000?style=for-the-badge&logo=nx&logoColor=white" />
+</p>
 
-**Backend & Databases**
-```
-Node.js • Express.js • Python • REST APIs
-MongoDB • SQL • NoSQL • AWS Databases
-```
-
----
+### Backend & Databases
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ---
 
@@ -76,29 +91,22 @@ MongoDB • SQL • NoSQL • AWS Databases
 
 ---
 
-##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Rameez-Ahmed&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Rameez-Ahmed&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-
----
-
-## 🤝 Connect With Me
-
+🤝 Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/muhammadrameez-ahmed" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:muhammadrameezahmed73@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Muhammad-Rameez-Ahmed" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:muhammadrameezahmed73@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Gmail" height="40" width="40" />
   </a>
 </p>
+
+
+
 
 ---
 
